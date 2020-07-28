@@ -1,0 +1,2 @@
+rootProject.name='Serien_App'
+include ':app'

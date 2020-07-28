@@ -1,0 +1,15 @@
+Update:
+
+Habe jetzt eine erste AsncTask erstellt, die auf die Website Yidio.com zugreifen soll.
+
+Funktioniert leider noch nicht ganz, da wahrscheinlich noch die XML-Daten geparset werden müssen.
+
+Hab hierfür versucht Jsoup zu benutzen, da ich das im Internet gelesen habe, dass das damit wohl ganz gut gehen soll.
+
+An der GUI habe ich bisher nur ein EditTextView und einen Button hinzugügt.
+
+
+
+25.05. Willi Hollatz
+Es wurde eine Settings Activity erstellt und ein Dark Mode wurde grob implementiert. Es liegen zur Zeit noch ein paar Fehler vor.
+Zum Beispiel kommt man aus dem Dark Mode nicht wieder heraus.

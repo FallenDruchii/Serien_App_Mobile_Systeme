@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#E7E7E7</color>
+    <color name="colorAccent">#06ABE5</color>
+
+    <color name="colorNavHeaderBack">@color/colorAccent</color>
+    <color name="colorNavHeader2">#D1D1d1</color>
+    <color name="colorNavItem">@color/colorPrimary</color>
+    <color name="colorNavItemSel">@color/colorPrimaryDark</color>
+    <color name="colorBackground">@color/colorPrimary</color>
+    <color name="colorItemTitle">#1c1c1c</color>
+    <color name="colorFloatingBar">@color/colorPrimaryDark</color>
+
+</resources>
